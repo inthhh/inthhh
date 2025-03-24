@@ -1,4 +1,4 @@
-### "사용자를 최우선으로 고려한 FE를 설계합니다."
+<img src='https://capsule-render.vercel.app/api?type=speech&height=181&color=gradient&text="사용자를%20최우선으로%20고려한%20FE를%20설계합니다."&fontAlign=50&fontSize=30&section=header&fontAlignY=40&textBg=false&animation=fadeIn'/>
   - 하나금융그룹 공모전 최우수상, 해커톤 수상 2회 등 프로젝트 경험 다수<br>
   - 대학생 신분으로 3곳의 회사를 경험했습니다.
   - 꾸준히 성장하고 있습니다 🔥<br/><br/>
