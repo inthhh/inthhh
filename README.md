@@ -1,5 +1,6 @@
 <img src='https://capsule-render.vercel.app/api?type=speech&height=120&color=gradient&text="사용자를%20최우선으로%20고려한%20FE를%20설계합니다."&fontAlign=50&fontSize=30&section=header&fontAlignY=40&textBg=false&animation=fadeIn'/><br>
-📧 contact : glass005533@gmail.com<br>
+📧 Contact : glass005533@gmail.com<br>
+✍🏻 Blog : https://xxilliant.tistory.com<br>
   - 하나금융그룹 공모전 최우수상, 해커톤 수상 2회 등 프로젝트 경험 다수<br>
   - 소프트웨어학과 대학생 신분으로 3곳의 회사를 경험했습니다.<br>
   - 나무처럼 꾸준히 성장하고 있습니다 🔥<br>
@@ -8,7 +9,7 @@
 2022년 : 레이시오 디자이너 아르바이트<br>
 2023년 : 산업은행 전산 인턴<br>
 2024년 : PTKOREA FE개발 인턴<br>
-2025년 : 학사 졸업, [한경x토스뱅크] 풀스택 부트캠프 수강 중📍<br>
+2025년 : 학사 졸업, [한경x토스뱅크] 풀스택 부트캠프 수강 중📍 (중간 프로젝트 평가 우수상)<br>
 
 <hr/>
 <strong>👇 경력기술서 👇</strong><br>
